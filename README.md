@@ -6,3 +6,5 @@ docker-compose up -d
 docker-compose ps
 ![image](https://github.com/romanpozii/docker_lab11/assets/101058688/d0b8f0f6-6244-488a-a3a5-3168dda28507)
 
+#Sprawdzenie poprawnego dziłania phpmyadmin
+![image](https://github.com/romanpozii/docker_lab11/assets/101058688/a64714e2-f859-4b4b-8cba-02a0aa3b351a)
