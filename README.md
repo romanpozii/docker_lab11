@@ -10,3 +10,5 @@ docker-compose ps
 ![image](https://github.com/romanpozii/docker_lab11/assets/101058688/a64714e2-f859-4b4b-8cba-02a0aa3b351a)
 ![image](https://github.com/romanpozii/docker_lab11/assets/101058688/dedf755f-68c4-453d-bddb-7a9c2869283d)
 
+# Wszystkie kontenery są uruchomione
+![image](https://github.com/romanpozii/docker_lab11/assets/101058688/4f68fe93-5bb6-4d01-9c84-97d94deb2650)
